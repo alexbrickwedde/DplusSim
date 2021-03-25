@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name libs)(type KiCad)(uri C:/opt/git-projekte/STM32-L152-Absense-PCB/PCB_v1/libs)(options KiCad)(descr ""))
+  (lib (name MyComponents)(type KiCad)(uri ${KIPRJMOD}/MyComponents/MyComponents.pretty)(options "")(descr ""))
+  (lib (name wago250)(type KiCad)(uri ${KIPRJMOD}/MyComponents/wago250.pretty)(options "")(descr ""))
+)
